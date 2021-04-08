@@ -58,7 +58,7 @@ sudo yum -y install amazon-efs-utils
 
 - Click the "Attach" button
 ```
-sudo mount -t efs -o tls fs-f0968e45:/ /efs
+sudo mount -t efs -o tls fs-f0xxxxx:/ /efs
 ```
 - After the successful mount should look like below:
 
@@ -80,7 +80,7 @@ tmpfs            59M     0   59M   0% /run/user/1000
 ```
 sudo mkdir /efs
 sudo yum -y install amazon-efs-utils
-sudo mount -t efs -o tls fs-f0968e45:/ /efs
+sudo mount -t efs -o tls fs-f0xxxxx:/ /efs
 ```
 
 #### 4 - Run simulation
