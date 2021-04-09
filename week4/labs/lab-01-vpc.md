@@ -138,7 +138,7 @@ echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
 
 
 - From console search for VPC,  select the VPC that was created under "Your VPC"
-- Under Actions "Delete VPC" and provide the fs name "fs-xxxxxx"
+- Under Actions "Delete VPC" 
 
 ![alt text](images/18-vpc-ec2.png)
 
