@@ -7,6 +7,7 @@ creation of VPC or network operator job role.
 
 This lab is written to work with region us-east-1
 
+<img src="images/lab3-00-vpc.png">
 
 
 ### Objective 
