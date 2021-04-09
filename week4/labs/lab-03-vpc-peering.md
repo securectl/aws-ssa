@@ -421,4 +421,4 @@ aws ec2 delete-vpc-peering-connection --vpc-peering-connection-id  pcx-0cfc95194
 
 ### Conclusion 
 
-You learned how to create VPC with auto-mode, change IPv4 setting for subnet and created Security group. Also, you learned how launch EC2 with custom VPC vs default.
+You learned how to create VPCs with command line, create required resources, create peering and establish connections.
